@@ -7,7 +7,6 @@ _Please read the instructions properly before you proceed._
 ### ⚙️ Tech Stack to be used
 
 - React.js (Latest)
-- TailwindCSS
 - SASS Stylesheets (scss) / TailwindCSS / CSS or you related any style framwork
 - Axios http client
 
