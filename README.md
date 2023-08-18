@@ -7,7 +7,7 @@ _Please read the instructions properly before you proceed._
 ### ⚙️ Tech Stack to be used
 
 - React.js (Latest)
-- SASS Stylesheets (scss) / TailwindCSS / CSS or you relevant any style framwork
+- SASS Stylesheets (scss) / TailwindCSS / CSS
 - Axios http client
 
 ---
@@ -18,7 +18,7 @@ Each objective will be evaluated individually. Please use the given API endpoint
 
 ### 1️⃣ Objective One
 
-Develop the UI following the given 🎨 [Figma design](https://www.figma.com/file/IPXZBpnc20QUbGcuiv1K9Z/TheFridge-React-Practical-Test?node-id=0%3A1), using react `functional components` and `scss stylesheets` for styles. (Please **DO NOT** use any third party component libraries or css libraries. write custom code. You can use TailwindCSS for utility classes)
+Develop the UI following the given 🎨 [Figma design](https://www.figma.com/file/IPXZBpnc20QUbGcuiv1K9Z/TheFridge-React-Practical-Test?node-id=0%3A1), using react `functional components` and `scss/css stylesheets` for styles. (Please **DO NOT** use any third party component libraries or css libraries. write custom code. You can use TailwindCSS for utility classes)
 
 https://www.figma.com/file/IPXZBpnc20QUbGcuiv1K9Z/TheFridge-React-Practical-Test
 
