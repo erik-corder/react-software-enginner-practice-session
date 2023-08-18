@@ -38,7 +38,7 @@ https://www.figma.com/file/IPXZBpnc20QUbGcuiv1K9Z/TheFridge-React-Practical-Test
 2. Each added item should show on the items list without a page refresh.
 3. Add a date picker to the `Expiry date` input field. (You can use ANY datepicker)
 
-### 4️⃣ Objective Four
+### 4️⃣ Objective Four (Optional)
 
 1. Add List item delete functionality.
 2. Show an alert confirmation window before deleting an item. (You can use your imagination for the confirmation window design)
@@ -69,11 +69,11 @@ _Body_
 }
 ```
 
-### ▶︎ Get an individual item
+### ▶︎ Delete an Item (optional)
 
 _Request_
 ```
-GET https://thefridge-api.karapincha.io/fridge/:itemId
+DELETE https://thefridge-api.karapincha.io/fridge/:itemId
 ```
 
 --- 
