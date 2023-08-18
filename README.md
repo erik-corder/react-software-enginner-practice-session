@@ -44,10 +44,6 @@ https://www.figma.com/file/IPXZBpnc20QUbGcuiv1K9Z/TheFridge-React-Practical-Test
 2. Show an alert confirmation window before deleting an item. (You can use your imagination for the confirmation window design)
 3. The deleted item should immediately remove from the shown list without a page refresh.
 
-### 5️⃣ Final Objective
-
-1. When clicked on each item, load the data to the form input fields and, add the item modification functionality.
-
 ---
 
 # 🚥 API Endpoints
@@ -78,27 +74,6 @@ _Body_
 _Request_
 ```
 GET https://thefridge-api.karapincha.io/fridge/:itemId
-```
-
-### ▶︎ Update an item
-
-_Request_
-```
-PUT https://thefridge-api.karapincha.io/fridge/:itemId
-```
-_Body_
-```
-{
-    "title": "Lemon",
-    "expiry": "20/11/2040"
-}
-```
-
-### ▶︎ Delete an Item
-
-_Request_
-```
-DELETE https://thefridge-api.karapincha.io/fridge/:itemId
 ```
 
 --- 
