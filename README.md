@@ -8,7 +8,7 @@ _Please read the instructions properly before you proceed._
 
 - React.js (Latest)
 - TailwindCSS
-- SASS Stylesheets (scss)
+- SASS Stylesheets (scss) / TailwindCSS / CSS or you related any style framwork
 - Axios http client
 
 ---
